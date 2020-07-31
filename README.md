@@ -71,3 +71,25 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 
 [Blogger](https://bitsits.blogspot.com/2011/05/squares-vs-triangles-in-marketplace.html)
 [Tumblr](http://bitsits.tumblr.com/post/96209958400/squares-vs-triangles-in-marketplace-squares-vs)
+
+Marketplace
+===
+Squares Vs Triangles is my second game published in the Windows Phone Marketplace. 
+
+Zune Deep link: http://www.windowsphone.com/en-US/apps/93c6c586-2773-e011-81d2-78e7d1fa76f8
+
+[Blogger](https://bitsits.blogspot.com/2011/05/squares-vs-triangles-in-marketplace.html)
+
+Trailer
+===
+Check out the new trailer of SVT running in WP7. 
+
+<!-- [![](http://i3.ytimg.com/vi/ZgdzLgq55us/hqdefault.jpg)][video] -->
+[![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/KFW3qGwTzhHBakLC37.gif)][video]
+
+<p><a href="https://giphy.com/gifs/bitsits-games-squares-vs-triangles-wp7-KFW3qGwTzhHBakLC37">via GIPHY</a></p>
+
+[Blogger](https://bitsits.blogspot.com/2011/02/squares-vs-triangles-trailer.html)
+[YouTube][video]
+
+[video]: https://youtu.be/ZgdzLgq55us
