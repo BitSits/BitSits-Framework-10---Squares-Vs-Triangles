@@ -6,7 +6,6 @@ The idea of the game was inspired from [Jon klassen](http://www.burstofbeaden.co
 
 Screenshots
 ---
-
 ![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%201.png)
 ![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%202.png)
 ![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%203.png)
@@ -23,13 +22,11 @@ Download Executable
 
 Instructions
 ---
-Drag using <kbd>LEFT</kbd> mouse button to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use <kbd>Esc</kbd> for pause and help screen.
-
+Drag using <kbd>SWIPE</kbd> to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use <kbd>Back</kbd> button for pause and help screen.
 
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
-
 
 Credits
 ---
@@ -41,10 +38,8 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
-
 ![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
