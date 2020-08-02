@@ -9,12 +9,12 @@ Screenshots
 
 ![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%201.png)
 ![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%202.png)
-![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%203.png)
-![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%204.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%203.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%204.png)
 
-![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%205.png)
-![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%206.png)
-![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%207.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%205.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%206.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%207.png)
 ![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%208.png)
 
 Download Executable
