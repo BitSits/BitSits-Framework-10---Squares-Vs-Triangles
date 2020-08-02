@@ -83,7 +83,7 @@ Trailer
 Check out the new trailer of SVT running in WP7. 
 
 <!-- [![](http://i3.ytimg.com/vi/ZgdzLgq55us/hqdefault.jpg)][video] -->
-[![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/KFW3qGwTzhHBakLC37.gif)][video]
+[![](https://github.com/Bitsits/Squares-vs-Triangles-video/raw/master/KFW3qGwTzhHBakLC37.gif)][video]
 
 [YouTube][video] [via GIPHY](https://giphy.com/gifs/KFW3qGwTzhHBakLC37)
 
