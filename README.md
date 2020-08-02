@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/Push%20Puzzle%20PC%20Large.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Mobile%20Small.png)
 
 Squares Vs Triangles
 ===
@@ -7,15 +7,15 @@ The idea of the game was inspired from [Jon klassen](http://www.burstofbeaden.co
 Screenshots
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%203.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%204.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%201.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%202.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%203.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%204.png)
 
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%205.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%206.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%207.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Windows%20Phone%20App/SVT%20Screenshot%208.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%205.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%206.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/master/Windows%20Phone%20App/SVT%20Screenshot%207.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Windows%20Phone%20App/SVT%20Screenshot%208.png)
 
 Download Executable
 ---
@@ -23,7 +23,7 @@ Download Executable
 
 Instructions
 ---
-Drag using LEFT mouse button to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use Esc for pause and help screen.
+Drag using <kbd>LEFT</kbd> mouse button to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use <kbd>Esc</kbd> for pause and help screen.
 
 
 Troubleshooting
@@ -45,7 +45,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/cc.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -67,7 +67,7 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/11/night-and-day-for-november/
-[zip]: https://github.com/Bitsits/Squares-vs-Triangles/blob/master/Windows%20Phone%20App/Squares%20Vs%20Triangles.zip
+[zip]: https://github.com/Bitsits/Squares-vs-Triangles-Assets/blob/master/Windows%20Phone%20App/Squares%20Vs%20Triangles.zip
 
 Marketplace
 ===
@@ -83,7 +83,7 @@ Trailer
 Check out the new trailer of SVT running in WP7. 
 
 <!-- [![](http://i3.ytimg.com/vi/ZgdzLgq55us/hqdefault.jpg)][video] -->
-[![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/KFW3qGwTzhHBakLC37.gif)][video]
+[![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/KFW3qGwTzhHBakLC37.gif)][video]
 
 [YouTube][video] [via GIPHY](https://giphy.com/gifs/KFW3qGwTzhHBakLC37)
 
